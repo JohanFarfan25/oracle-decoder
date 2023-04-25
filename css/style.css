@@ -48,14 +48,14 @@ body {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 40px;
     line-height: 100%;
     border-radius: 5px;
     border: none;
 
 }
 
-.button1-descktop {
+.button-encrypt {
     width: 200px;
     height: 40px;
     background: #0A3871;
@@ -63,12 +63,50 @@ body {
     color: #FFFFFF;
 }
 
-.button2-descktop {
+
+.button-encrypt:hover {
+    background: #FFFFFF;
+    color: #0A3871;
+}
+
+.button-decrypt {
     width: 200px;
     height: 40px;
     background: #D8DFE8;
     border-radius: 24px;
     color: #0A3871;
+}
+
+
+.button-decrypt:hover {
+    background: #0A3871;
+    color: #D8DFE8;
+}
+
+.button-copy {
+    width: 100px;
+    height: 40px;
+    background: #FFFFFF;
+    border-radius: 24px;
+    color: #0A3871;
+}
+
+.button-copy:hover {
+    background: #0A3871;
+    color: #FFFFFF;
+}
+
+.button-clear {
+    width: 100px;
+    height: 40px;
+    background: #FFFFFF;
+    border-radius: 24px;
+    color: #0A3871;
+}
+
+.button-clear:hover {
+    background: #0A3871;
+    color: #FFFFFF;
 }
 
 .card-rigth {
@@ -133,13 +171,7 @@ body {
     flex-grow: 1;
 }
 
-.button3-descktop {
-    width: 200px;
-    height: 40px;
-    background: #FFFFFF;
-    border-radius: 24px;
-    color: #0A3871;
-}
+
 
 .button3 {
     font-family: 'Inter';
