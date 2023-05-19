@@ -2,12 +2,11 @@
 
 ### 25/04/2023
 ```
-"Instalación": [
+"Descripción": [
     {
-        "Title":"oracle-decoder",
+        "Titulo":"oracle-decoder (Encriptador y Desencriptador de texto)",
         "trello": "https://trello.com/c/3RyaXbDN/12-sobre-el-desaf%C3%ADo",
-        "Developer":"Johan Alexander Farfán Sierra"
-        "Description":"Encriptador y Desencriptador de texto"
+        "desarrollador":"Johan Alexander Farfán Sierra"
         "Llaves de encriptación":"
            1. La letra "e" es convertida para "enter".
            2. La letra "i" es convertida para "imes".
