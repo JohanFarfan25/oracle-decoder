@@ -95,17 +95,6 @@ function clearText() {
     document.getElementById("textarea2").value = "";
 }
 
-//The text is copied
-var button_copy = document.getElementById("copy"),
-    input = document.getElementById("textarea1");
-
-button_copy.addEventListener("click", function (event) {
-    event.preventDefault();
-    input.select();
-    document.execCommand("copy");
-});
-
-
 /**
  * covertStringToArray
  * @autor Johan Alexander Farfán Sierra <johanfarfan25@gmail.com>
