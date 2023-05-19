@@ -34,6 +34,7 @@ function encryptText() {
         });
 
         var text_encriptet_string = covertArrayToString(text_encriptet_array, "");
+        swal("En hora buena", 'Texto encriptado con exito', "success");
         document.getElementById("textarea1").value = text_encriptet_string;//Se envia el texto
 
     }
@@ -64,6 +65,7 @@ function decryptText() {
         var text_list_decrypt = covertStringToArray(new_text_lower_case_decrypt, " ");
         text_encriptet_array = decripterLetter(text_list_decrypt);
         var text_encriptet_string__decrypt = covertArrayToStringDecript(text_encriptet_array);
+        swal("En hora buena", 'Texto desencriptado con exito', "success");
         document.getElementById("textarea1").value = text_encriptet_string__decrypt;//Se envia el texto
     }
 
@@ -77,7 +79,7 @@ function decryptText() {
 function validateSpecialCharacters(texto) {
     let special_characters = /[`!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?~]/;
     if (special_characters.test(texto)) {
-        alert('¡No se puede ingresar caracteres especiales como: ' + special_characters + ' !');
+        swal("Error!", '¡No se puede ingresar caracteres especiales como: ' + special_characters + ' !', "error");
         return true;
 
     }
