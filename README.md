@@ -22,4 +22,4 @@
 ]
 ```
 ```
-
+![Encriptador](https://github.com/JohanFarfan25/oracle-decoder/assets/71784239/7fe8d7da-867c-4b17-8738-839a421a9808).
