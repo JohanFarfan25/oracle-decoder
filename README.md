@@ -22,7 +22,4 @@
 ]
 ```
 ```
-![Encriptador]([https://user-images.githubusercontent.com/71784239/112725035-14590c80-8ee4-11eb-9a84-b172bc60c550.PNG](https://github.com/JohanFarfan25/oracle-decoder/assets/71784239/dcebf664-499c-4afe-9ee1-938987136087).
-
-![Encriptador]([https://user-images.githubusercontent.com/71784239/112725035-14590c80-8ee4-11eb-9a84-b172bc60c550.PNG]([https://github.com/JohanFarfan25/oracle-decoder/assets/71784239/dcebf664-499c-4afe-9ee1-938987136087](https://github.com/JohanFarfan25/oracle-decoder/assets/717842340cb1010-d69b-4eed-9e2a-61246dadbb53).
 
