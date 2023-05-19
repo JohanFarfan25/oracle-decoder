@@ -48,4 +48,20 @@
         </div>
     </div>
 </body>
+
+
+<script type="text/javascript">
+
+    //The text is copied
+    var button_copy = document.getElementById("copy"),
+        input = document.getElementById("textarea1");
+
+    button_copy.addEventListener("click", function (event) {
+        event.preventDefault();
+        input.select();
+        document.execCommand("copy");
+    });
+
+</script>
+
 </html>
