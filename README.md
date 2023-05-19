@@ -1,7 +1,7 @@
 # Encriptador
 ![Encriptador](https://github.com/JohanFarfan25/oracle-decoder/assets/71784239/7fe8d7da-867c-4b17-8738-839a421a9808).
 
-![Ejemplo](https://github.com/JohanFarfan25/oracle-decoder/assets/71784239/7fe8d7da-867c-4b17-8738-839a421a9808](https://github.com/JohanFarfan25/oracle-decoder/assets/71784239/2835ce19-22fd-465c-9e0b-435c4e3644a8).
+![Ejemplo](https://github.com/JohanFarfan25/oracle-decoder/assets/71784239/2835ce19-22fd-465c-9e0b-435c4e3644a8).
 
 
 ### 25/04/2023
