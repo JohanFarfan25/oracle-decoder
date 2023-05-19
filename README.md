@@ -5,7 +5,7 @@
 "Instalación": [
     {
         "Title":"oracle-decoder",
-        Jira": "https://trello.com/c/3RyaXbDN/12-sobre-el-desaf%C3%ADo",
+        "trello": "https://trello.com/c/3RyaXbDN/12-sobre-el-desaf%C3%ADo",
         "Developer":"Johan Alexander Farfán Sierra"
         "Description":"Encriptador y Desencriptador de texto"
         "Llaves de encriptación":"
