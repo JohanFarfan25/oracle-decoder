@@ -1,4 +1,4 @@
-# Encriptador Autot Johan Alexander Farfán Sierra
+# Encriptador
 
 ### 25/04/2023
 ```
